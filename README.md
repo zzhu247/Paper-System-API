@@ -21,26 +21,6 @@ This project is a simple RESTful API for managing research papers. It allows use
 ├── package.json     # Project dependencies and scripts
 └── README.md        # Documentation
 ```
-
-## Installation
-To set up and run the project, follow these steps:
-
-1. **Clone the repository** (if applicable)
-   ```sh
-   git clone <repository_url>
-   cd <project_directory>
-   ```
-
-2. **Install dependencies**
-   ```sh
-   npm install
-   ```
-
-3. **Run the server**
-   ```sh
-   npm start
-   ```
-
 ## API Endpoints
 | Method | Endpoint            | Description                |
 |--------|---------------------|----------------------------|
